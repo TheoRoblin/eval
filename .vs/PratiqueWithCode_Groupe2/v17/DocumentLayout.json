@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Theor\\Downloads\\PratiqueWithCode_Groupe2_Subject\\PratiqueWithCode_Groupe2_Subject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC16EC5-A1FD-4403-83BD-8709C457151C}|SampleCode.UnitTest\\SampleCode.UnitTest.csproj|c:\\users\\theor\\downloads\\pratiquewithcode_groupe2_subject\\pratiquewithcode_groupe2_subject\\samplecode.unittest\\phonenumbertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC16EC5-A1FD-4403-83BD-8709C457151C}|SampleCode.UnitTest\\SampleCode.UnitTest.csproj|solutionrelative:samplecode.unittest\\phonenumbertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|c:\\users\\theor\\downloads\\pratiquewithcode_groupe2_subject\\pratiquewithcode_groupe2_subject\\evaluationsamplecode\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9793C069-7B66-4B3F-9245-6BEC120DB968}|EvaluationSampleCode\\EvaluationSampleCode.csproj|solutionrelative:evaluationsamplecode\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC16EC5-A1FD-4403-83BD-8709C457151C}|SampleCode.UnitTest\\SampleCode.UnitTest.csproj|c:\\users\\theor\\downloads\\pratiquewithcode_groupe2_subject\\pratiquewithcode_groupe2_subject\\samplecode.unittest\\baptizmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC16EC5-A1FD-4403-83BD-8709C457151C}|SampleCode.UnitTest\\SampleCode.UnitTest.csproj|solutionrelative:samplecode.unittest\\baptizmtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC16EC5-A1FD-4403-83BD-8709C457151C}|SampleCode.UnitTest\\SampleCode.UnitTest.csproj|c:\\users\\theor\\downloads\\pratiquewithcode_groupe2_subject\\pratiquewithcode_groupe2_subject\\samplecode.unittest\\htmlformathelpertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC16EC5-A1FD-4403-83BD-8709C457151C}|SampleCode.UnitTest\\SampleCode.UnitTest.csproj|solutionrelative:samplecode.unittest\\htmlformathelpertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC16EC5-A1FD-4403-83BD-8709C457151C}|SampleCode.UnitTest\\SampleCode.UnitTest.csproj|c:\\users\\theor\\downloads\\pratiquewithcode_groupe2_subject\\pratiquewithcode_groupe2_subject\\samplecode.unittest\\mathoperationstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC16EC5-A1FD-4403-83BD-8709C457151C}|SampleCode.UnitTest\\SampleCode.UnitTest.csproj|solutionrelative:samplecode.unittest\\mathoperationstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 135,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PhoneNumberTest.cs",
+              "DocumentMoniker": "C:\\Users\\Theor\\Downloads\\PratiqueWithCode_Groupe2_Subject\\PratiqueWithCode_Groupe2_Subject\\SampleCode.UnitTest\\PhoneNumberTest.cs",
+              "RelativeDocumentMoniker": "SampleCode.UnitTest\\PhoneNumberTest.cs",
+              "ToolTip": "C:\\Users\\Theor\\Downloads\\PratiqueWithCode_Groupe2_Subject\\PratiqueWithCode_Groupe2_Subject\\SampleCode.UnitTest\\PhoneNumberTest.cs",
+              "RelativeToolTip": "SampleCode.UnitTest\\PhoneNumberTest.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:10:11.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaptizmTest.cs",
+              "DocumentMoniker": "C:\\Users\\Theor\\Downloads\\PratiqueWithCode_Groupe2_Subject\\PratiqueWithCode_Groupe2_Subject\\SampleCode.UnitTest\\BaptizmTest.cs",
+              "RelativeDocumentMoniker": "SampleCode.UnitTest\\BaptizmTest.cs",
+              "ToolTip": "C:\\Users\\Theor\\Downloads\\PratiqueWithCode_Groupe2_Subject\\PratiqueWithCode_Groupe2_Subject\\SampleCode.UnitTest\\BaptizmTest.cs",
+              "RelativeToolTip": "SampleCode.UnitTest\\BaptizmTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:08:48.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtmlFormatHelperTest.cs",
+              "DocumentMoniker": "C:\\Users\\Theor\\Downloads\\PratiqueWithCode_Groupe2_Subject\\PratiqueWithCode_Groupe2_Subject\\SampleCode.UnitTest\\HtmlFormatHelperTest.cs",
+              "RelativeDocumentMoniker": "SampleCode.UnitTest\\HtmlFormatHelperTest.cs",
+              "ToolTip": "C:\\Users\\Theor\\Downloads\\PratiqueWithCode_Groupe2_Subject\\PratiqueWithCode_Groupe2_Subject\\SampleCode.UnitTest\\HtmlFormatHelperTest.cs",
+              "RelativeToolTip": "SampleCode.UnitTest\\HtmlFormatHelperTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:09:39.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MathOperationsTest.cs",
+              "DocumentMoniker": "C:\\Users\\Theor\\Downloads\\PratiqueWithCode_Groupe2_Subject\\PratiqueWithCode_Groupe2_Subject\\SampleCode.UnitTest\\MathOperationsTest.cs",
+              "RelativeDocumentMoniker": "SampleCode.UnitTest\\MathOperationsTest.cs",
+              "ToolTip": "C:\\Users\\Theor\\Downloads\\PratiqueWithCode_Groupe2_Subject\\PratiqueWithCode_Groupe2_Subject\\SampleCode.UnitTest\\MathOperationsTest.cs",
+              "RelativeToolTip": "SampleCode.UnitTest\\MathOperationsTest.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:09:55.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 117,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Theor\\Downloads\\PratiqueWithCode_Groupe2_Subject\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "EvaluationSampleCode\\PhoneNumber.cs",
+              "ToolTip": "C:\\Users\\Theor\\Downloads\\PratiqueWithCode_Groupe2_Subject\\PratiqueWithCode_Groupe2_Subject\\EvaluationSampleCode\\PhoneNumber.cs",
+              "RelativeToolTip": "EvaluationSampleCode\\PhoneNumber.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAxwBUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:08:04.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
